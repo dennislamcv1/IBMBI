@@ -1,0 +1,413 @@
+<link href="https://sk2280913.gitlab.io/Project-Lifecycle-Information-Sharing-and-Risk-Management/style.css" rel="stylesheet"></link><br />
+
+<div style="margin:50px;">
+</p>
+<p><img src="/images/SKTedtech_360%201.png" width="150"/></p>
+<h1
+id="final-project---hands-on-lab-working-with-the-world-happiness-report-in-tableau-public">Final
+Project - Hands-on Lab: Working with the World Happiness Report in
+Tableau Public</h1>
+<p>Estimated time needed: <strong>60</strong> minutes</p>
+<h2 id="required-software">Required Software</h2>
+<p>You can complete this lab using the free Tableau Public online
+platform or the Tableau Desktop (Public Edition) app.</p>
+<h2 id="prerequisites">Prerequisites</h2>
+<p>You need a free Tableau Public account for this lab. If you haven’t
+already done so, you can sign up for an account using the steps
+<a href="https://www.coursera.org/learn/getting-started-with-tableau/ungradedWidget/1ALrv/hands-on-lab-sign-up-for-tableau-public" target="_blank">here</a>.</p>
+<h2 id="data-set">Data Set</h2>
+<p>The World Happiness Report is a landmark survey of the state of
+global happiness. The reports review the state of happiness in the world
+today and show how the new science of happiness explains personal and
+national variations in happiness.</p>
+<p>This is a public data set available on the
+<a href="https://www.kaggle.com/" target="_blank">Kaggle website</a> as
+<a href="https://www.kaggle.com/datasets/unsdsn/world-happiness/data" target="_blank">World
+Happiness Report</a> under the
+<a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0:
+Public Domain</a> license. The primary data set was retrieved from the
+<a href="https://worldhappiness.report/" target="_blank">World Happiness
+Report</a>.</p>
+<p>For this final project, you will work on the 2015-2023 data, which
+has been slightly modified for the purposes of this guided practice
+project.</p>
+<p>Hold down the Ctrl key while you click to download it from
+<a href="data/WHR_15_23.csv">here.</a></p>
+<p>Attributes of this data set have been explained below:</p>
+<table>
+<tr>
+<th>
+Column
+</th>
+<th>
+Description
+</th>
+</tr>
+<tr>
+<td>
+country
+</td>
+<td>
+The name of the country
+</td>
+</tr>
+<tr>
+<td>
+region
+</td>
+<td>
+The geographic region or continent
+</td>
+</tr>
+<tr>
+<td>
+happiness_score
+</td>
+<td>
+A measure reflecting overall happiness
+</td>
+</tr>
+<tr>
+<td>
+gdp_per_capita
+</td>
+<td>
+The extent to which GDP contributes to the calculation of the Happiness
+Score
+</td>
+</tr>
+<tr>
+<td>
+social_support
+</td>
+<td>
+A metric measuring social support
+</td>
+</tr>
+<tr>
+<td>
+healthy_life_expectancy
+</td>
+<td>
+The extent to which life expectancy contributes to the calculation of
+the Happiness Score
+</td>
+</tr>
+<tr>
+<td>
+freedom_to_make_life_choices
+</td>
+<td>
+The extent to which freedom contributes to the calculation of the
+Happiness Score
+</td>
+</tr>
+<tr>
+<td>
+generosity
+</td>
+<td>
+The extent to which generosity contributes to the calculation of the
+Happiness Score
+</td>
+</tr>
+<tr>
+<td>
+year
+</td>
+<td>
+The year of data collection (2015- 2023)
+</td>
+</tr>
+</table>
+<h2 id="task-1---happiness-status-overview">Task 1 - Happiness status
+overview</h2>
+1.1 Create a highlighted table representing the average happiness score
+for each region with a relevant title and that works as a filter for the
+dashboard.
+<ul>
+<li>
+Title it: "Average Happiness Score (Region)"
+</li>
+<li>
+Make it so the highlighted table highlights the important average
+happiness scores
+</li>
+</ul>
+<img src="./images/FP_1_2.png" />
+</p>
+1.2 Create a map to display the 10 most happy countries.
+<ul>
+<li>
+Title it: "Most Happy Countries"
+</li>
+<li>
+Make use of a parameter and use it as the filter for the <i>Country</i>
+data field
+</li>
+<li>
+Tooltips should include the name of the country, region, and average
+happiness score of the country
+</li>
+<li>
+Keep the map background as <i>Normal</i>
+</li>
+<li>
+Selected countries may be displayed with different colors on the map
+</li>
+</ul>
+<img src="./images/FP_1_1.png" />
+</p>
+1.3 Create a map to display the 10 least happy countries.
+<ul>
+<li>
+Title it: "Least Happy Countries"
+</li>
+<li>
+Make use of a parameter and use it as the filter for the <i>Country</i>
+data field
+</li>
+<li>
+Tooltips should include the name of the country, region, and average
+happiness score of the country
+</li>
+<li>
+Keep the map background as <i>Normal</i>
+</li>
+<li>
+Selected countries may be displayed with different colors on the map
+</li>
+</ul>
+<img src="./images/FP_1_3.png" />
+</p>
+1.4 Create a dashboard using the charts from tasks 1.1, 1.2, and 1.3.
+<ul>
+<li>
+Title it: "Happiness Status Overview (2015-2023)"
+</li>
+<li>
+Follow best practices on the dashboard. Use the same color, font, and
+font style for visualization titles. The white space between the
+visualizations should be approximately equal
+</li>
+</ul>
+<img src="./images/FP_1.png" />
+</p>
+<h2 id="task-2---effect-of-gdp-per-capita-on-happiness-score">Task 2 -
+Effect of GDP per capita on happiness score</h2>
+2.1 Create a highlighted table to represent the average happiness score
+for the 10 happiest countries.
+<ul>
+<li>
+Make use of a parameter as a filter to select the Top 10 Most Happy
+Countries
+</li>
+<li>
+Title it: "Average Happiness Score"
+</li>
+</ul>
+<img src="./images/FP_2_1.png" />
+</p>
+2.2 Create a multiline chart to display the Average GDP per capita for
+the 10 happiest countries over the years.
+<ul>
+<li>
+Make use of color to differentiate each country in the line graph
+</li>
+<li>
+Title it: "Average GDP per Capita"
+</li>
+</ul>
+<img src="./images/FP_2_2.png" />
+</p>
+2.3 Create a line chart to display the happiness score for GDP per
+capita every year for the 10 happiest countries.
+<ul>
+<li>
+Represent the happiness score in blue
+</li>
+<li>
+Title it: "Happiness Score Vs GDP per Capita (2015-2023)"
+</li>
+</ul>
+<img src="./images/FP_2_3.png" />
+</p>
+2.4 Create a dashboard using the charts from tasks 2.1, 2.2, and 2.3.
+<ul>
+<li>
+Title it: "Effect of GDP per Capita on Happiness Score (Top 10 Most
+Happy Countries)"
+</li>
+</ul>
+<img src="./images/FP_2.png" />
+</p>
+<ul>
+<li>
+Include one annotation in the average GDP per Capita chart as per your
+inference
+</li>
+</ul>
+<p>Reference annotation</p>
+<img src="./images/FP_A.png" />
+</p>
+<ul>
+<li>
+All the visualizations should represent the country selected by the user
+when clicked on in the "Average Happiness Score" table
+</li>
+</ul>
+<p>Reference selection</p>
+<img src="./images/FP_22.png" />
+</p>
+<ul>
+<li>
+Follow best practices when building your dashboard. Use the same color,
+font, and font style for all visualization titles. The white space
+between the visualizaions should be approximately equal
+</li>
+</ul>
+<h2
+id="task-3---effect-of-other-factors-on-happiness-score-for-the-10-happiest-countries">Task
+3 - Effect of other factors on happiness score for the 10 happiest
+countries</h2>
+3.1 Create a text table to display the happiness score of the 10
+happiest countries for years 2015 to 2023.
+<ul>
+<li>
+Highlight the score with color
+</li>
+<li>
+Title it "Happiness Score of Most Happy Countries"
+</li>
+</ul>
+<img src="./images/FP_3_1.png" />
+</p>
+3.2 Create a dual combination bar and line chart to display freedom and
+social support for every year for the 10 happiest countries.
+<ul>
+<li>
+Title it "Freedom and Social Support (Most Happy Countries)"
+</li>
+</ul>
+<img src="./images/FP_3_2.png" />
+</p>
+3.3 Create a dual combination bar and line chart to display generosity
+and healthy life expectancy for the 10 happiest countries.
+<ul>
+<li>
+Title it "Generosity and Healthy Life Expectisncy (Most Happy
+Countries)"
+</li>
+</ul>
+<img src="./images/FP_3_3.png" />
+</p>
+3.4 Create a dashboard including all three visualizations created in
+tasks 3.1, 3.2, and 3.3.
+<ul>
+<li>
+Title it: "Effect of Freedom, Social Support, Generosity and Healthy
+Life Expectancy (Most Happy Countries)"
+</li>
+</ul>
+<img src="./images/FP_3.png" />
+</p>
+<ul>
+<li>
+All the visualizations on the dashboard should represent the country
+selected by the user when clicked on in the "Happiness Score of Most
+Happy Countries" table
+</li>
+</ul>
+<img src="./images/FP_33.png" />
+</p>
+<h2
+id="task-4---effect-of-other-factors-on-happiness-score-for-the-10-least-happy-countries">Task
+4 - Effect of other factors on happiness score for the 10 least happy
+countries</h2>
+<ul>
+<li>
+Repeat each part of the subtasks in Task 3, but create those
+visualizations for the "Least Happy Countries"
+</li>
+<li>
+Exclude two of the countries that do not have data for recent years when
+you create the "Happiness Score of Least Happy Countries" text table
+</li>
+</ul>
+<img src="./images/FP_exclude.png" />
+</p>
+<ul>
+<li>
+Title the dashboard "Effect of Freedom, Social Support, Generosity and
+Healthy Life Expectancy (Least Happy Countries)"
+</li>
+</ul>
+<img src="./images/FP_4.png" />
+</p>
+<ul>
+<li>
+All the visualizations on the dashboard should represent the country
+selected by the user when clicked on in the "Happiness Score of Least
+Happy Countries" table
+</li>
+</ul>
+<h2
+id="task-5---create-a-story-and-share-your-final-project-workbook">Task
+5 - Create a story and share your final project workbook</h2>
+<p>5.1 Create story points for each of the four dashboards you created
+in earlier tasks.</p>
+<p>5.2 Provide relevant captions for each story point.</p>
+<p>5.3 Include another story point captioned <i>Inferences</i>. Write
+three inferences you have gathered from the tasks above, which you would
+like to narrate while presenting the story to the stakeholders.</p>
+<img src="./images/FP_S.png" />
+</p>
+<p>5.4 Publish your final project workbook and copy the link to it for
+submission.</p>
+<p>To do this:</p>
+<ol>
+<li>
+In the top right corner of the page, click <b>Publish As</b> (or
+<b>Publish</b> if you've published this workbook already), then click
+<b>Publish As</b>, name your workbook <i>MyFinalProject(yourname)</i>,
+ensure you check the box <b>Show sheets as tabs</b>, and then click
+<b>Publish</b>.
+</li>
+<h3
+id="it-is-very-importannt-that-you-check-the-show-sheets-as-tabs-checkbox-otherwise-it-may-be-difficult-for-your-peers-to-review-your-submission.">It
+is very importannt that you check the <i>Show sheets as tabs</i>
+checkbox otherwise it may be difficult for your peers to review your
+submission.</h3>
+<li>
+In Web Authoring, click <b>File</b>, then click <b>Close</b>.
+</li>
+<li>
+In the Tableau Public web page for your final project story, click the
+<b>Share</b> icon in the top right toolbar above the final project
+workbook, and in the Share dialog box, click <b>Copy Link</b>. This will
+copy the workbook link to the clipboard.
+</li>
+</ol>
+<h3
+id="congratulations-you-have-completed-the-lab-for-this-final-project.">Congratulations!
+You have completed the lab for this final project.</h3>
+<h1 id="authors">Author(s)</h1>
+<p>Dr Pooja</p>
+<h2 id="other-contributors">Other Contributor(s)</h2>
+<p>Steve Ryan</p>
+<!---
+
+## Change Log
+
+| Date (YYYY-MM-DD) | Version | Changed By        | Change Description                        |
+| ----------------- | ------- | ----------------- | ----------------------------------------- |
+|  2024-01-18       |   0.1   | Dr Pooja        | Created Initial Version for V1 |
+|  2024-01-19       |   0.2   | Steve Ryan        | ID review/edit |
+|  2024-01-24       |   0.3   | Mercedes Schneider        | QA pass with edits |
+|  2024-01-30       |   0.4   | Steve Ryan        | Added to GitHub |
+|  2024-02-06       |   0.5   | Steve Ryan        | Edited after UX/QA review |
+|  2024-02-08       |   0.6   | Steve Ryan        | Fixed apostrophes with &#39; and fixed quotes with &#34; |
+|         |      |         |  |
+
+--->
+</div>
