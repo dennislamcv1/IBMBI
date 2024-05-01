@@ -1,0 +1,700 @@
+product_id,product_name
+P0000,Bottom Freezer Refrigerator
+P0001,Side-by-Side Refrigerator
+P0002,Mini Fridge
+P0004,Beverage Center
+P0005,Wine Cooler
+P0006,Chest Freezer
+P0007,Upright Freezer
+P0008,Compact Freezer
+P0009,Gas Range
+P0010,Electric Range
+P0011,Induction Cooktop
+P0012,Wall Oven
+P0013,Countertop Oven
+P0014,Microwave Oven
+P0015,Convection Oven
+P0016,Steam Oven
+P0017,Pizza Oven
+P0018,Toaster Oven
+P0019,Built-In Dishwasher
+P0020,Portable Dishwasher
+P0021,Top-Load Washing Machine
+P0022,Front-Load Washing Machine
+P0023,High-Efficiency Washing Machine
+P0024, Stackable Washer and Dryer
+P0025,Ventless Dryer
+P0026,Steam Dryer
+P0027,Pressure Cooker
+P0028,Slow Cooker
+P0029,Food Steamer
+P0030,Blender
+P0031,Stand Mixer
+P0032,Hand Mixer
+P0033,Food Processor
+P0035,Immersion Blender
+P0036,Coffee Maker
+P0037,Espresso Machine
+P0038,Toaster
+P0039,Waffle Iron
+P0040,Griddle
+P0041,Electric Kettle
+P0042,Air Fryer
+P0043,Range Hood
+P0044,Vent Fan
+P0045,Smart Thermostats
+P0046,Smart Doorbells (with video)
+P0047,Smart Locks
+P0048,"Smart Lighting (bulbs, strips)"
+P0049,Smart Plugs
+P0050,Smart Security Cameras (indoor/outdoor)
+P0051,Smart Speakers (with voice assistants)
+P0053,Coffee Maker
+P0054,Robot Vacuums
+P0055,Smart TVs
+P0056,Smart Irrigation Systems
+P0057,Upright Vacuums
+P0058,Canister Vacuums
+P0059,Robot Vacuums
+P0060,Steam Mops
+P0061,Carpet Cleaners
+P0062,Hardwood Floor Cleaners
+P0063,Floor Polishers
+P0064,Gas Grills
+P0065,Charcoal Grills
+P0066,Electric Grills
+P0067,Smokers
+P0068,Patio Heaters
+P0069,Fire Pits
+P0070,"Lawn Mowers (gas, electric)"
+P0071,String Trimmers
+P0072,Leaf Blowers
+P0073,Hedge Trimmers
+P0074,Sewing Machines
+P0075,Vacuum Sealers
+P0076,Dehumidifiers
+P0077,Humidifiers
+P0078,Portable Power Banks
+P0079,Phone Chargers
+P0080,Portable Speakers
+P0082,Projectors
+P0083,Security Cameras
+P0084,Baby Monitors
+P0085,Dehumidifiers
+P0086,Humidifiers
+P0087,Portable Projectors
+P0088,Portable Ice Makers
+P0089,Portable Blenders
+P0090,Handheld Vacuum Cleaner
+P0091,Robot Vacuum Cleaner
+P0092,Canister Vacuum Cleaner
+P0093,Steam Mop
+P0094,Stick Vacuum
+P0095,Bread Machine
+P0096,Ice Cream Maker
+P0097,Popcorn Maker
+P0098,Meat Grinder
+P0099,Juicer
+P0100,Dehydrator
+P0101,Soda Stream
+P0102,Electric Can Opener
+P0103,Handheld Milk Frother
+P0104,Hair Dryer
+P0105,Curling Iron
+P0108,Flat Iron
+P0109,Hair Straightener
+P0110,Electric Shaver
+P0111,Epilator
+P0112,Sonicare Toothbrush
+P0113,Water Flosser
+P0114,LED TV
+P0115,OLED TV
+P0116,Smart TV
+P0117,Projector
+P0118,Soundbar
+P0119,Streaming Device
+P0122,Gaming Console
+P0123,Air Conditioner
+P0124,Portable Air Conditioner
+P0125,Dehumidifier
+P0126,Humidifier
+P0127,Ceiling Fan
+P0128,Space Heater
+P0129,Portable Heater
+P0130,Air Purifier
+P0131,Counter-depth Refrigerator
+P0132,Smart Refrigerator (Wi-Fi enabled)
+P0133,French Door Refrigerator with Ice Maker
+P0134,Bottom Freezer Refrigerator with Water Dispenser
+P0135,Side-by-Side Refrigerator with Craft Ice Maker
+P0136,Upright Freezer with Automatic Defrost
+P0137,Chest Freezer with Lock and Key
+P0138,Compact Freezer with Fast Freeze Function
+P0139,Slide-In Range
+P0140,Self-Cleaning Oven
+P0141,Induction Range with Downdraft Vent
+P0142,Double Wall Oven
+P0143,Wall Oven with Microwave Combination
+P0144,Countertop Pizza Oven with Rotisserie Function
+P0145,Built-In Dishwasher with Third Rack
+P0146,Portable Dishwasher with Sanitize Cycle
+P0147,High-Capacity Washing Machine
+P0148,Steam Washer with Sanitize Cycle
+P0149,Ventless Dryer with Sensor Drying
+P0150,Stackable Washer and Dryer with Steam Refresh
+P0151,Multicooker
+P0152,Sous Vide Precision Cooker
+P0154,Spiralizer
+P0155,Handheld Blender with Food Processor Attachment
+P0156,Stand Mixer with Dough Hook
+P0157,Immersion Blender with Soup Maker Attachment
+P0158,Single-Serve Coffee Maker
+P0159,Cold Brew Coffee Maker
+P0160,High-Speed Blender
+P0161,Waffle Iron with Rotating Plates
+P0162,Electric Griddle with Nonstick Surface
+P0163,Smart Toaster with Bagel Function
+P0164,Robot Vacuum with Self-Empty Base
+P0165,Handheld Vacuum with HEPA Filter
+P0166,Steam Mop with Multiple Cleaning Modes
+P0167,Stick Vacuum with Detachable Handheld Unit
+P0169,Bread Machine with Gluten-Free Setting
+P0170,Ice Cream Maker with Self-Refrigerating Function
+P0171,Popcorn Maker with Healthy Air-Popped Option
+P0172,Handheld Milk Frother with Adjustable Temperatures
+P0173,Hair Dryer with Ionic Technology
+P0174,Curling Iron with Interchangeable Barrels
+P0175,Flat Iron with Adjustable Heat Settings
+P0176,Hair Straightener with Steam Function
+P0177,Electric Shaver with Trimmer Attachment
+P0178,Water Flosser with Multiple Cleaning Modes
+P0179,Curved TV
+P0180,Ultra HD TV
+P0181,Smart TV with Built-in Streaming Apps
+P0182,Projector with Short Throw Distance
+P0183,Soundbar with Dolby Atmos
+P0184,Gaming Console with Virtual Reality Compatibility
+P0185,Smart Air Conditioner with Voice Control
+P0186,Portable Air Conditioner with Dehumidifying Function
+P0187,Dehumidifier with Laundry Mode
+P0188,Humidifier with Ultrasonic Technology
+P0189,Ceiling Fan with Remote Control
+P0190,Smart Space Heater with Eco Mode
+P0192,Portable Heater with Tip-Over Safety Switch
+P0193,Air Purifier with HEPA Filter and Activated Carbon
+P0194,Smart Thermostats with Geofencing
+P0195,Smart Doorbells with Night Vision
+P0196,Smart Locks with Fingerprint Recognition
+P0197,Smart Lighting with Dimmable and Color-Changing Options
+P0198,Smart Plugs with Voice Control and Scheduling
+P0199,Smart Security Cameras with Motion Detection and Two-Way Audio
+P0200,Smart Speakers with Multi-Room Audio and Touchscreen Display
+P0201,Smart Kitchen Appliances with Preset Cooking Programs and Recipe Integration
+P0202,Robot Vacuums with Obstacle Detection and Room Mapping
+P0203,Smart TVs with Voice Search and Built-in Chromecast
+P0204,Smart Irrigation Systems with Weather Sensor and Leak Detection
+P0205,Upright Vacuums with Cyclonic Technology and Pet Hair Remover
+P0206,Canister Vacuums with HEPA Filter and Variable Suction Control
+P0208,Robot Vacuums with Self-Empty Base and Room Mapping
+P0209,Steam Mops with Adjustable Steam Levels and Multi-Surface Cleaning
+P0210,Carpet Cleaners with Deep Cleaning Function and Upholstery Attachment
+P0211,Hardwood Floor Cleaners with Polishing Feature
+P0212,Floor Polishers with Variable Speed Control and Buffing Pads
+P0213,Gas Grills with Infrared Sear Burner and Side Burner
+P0214,Charcoal Grills with Smoker Box and Temperature Gauge
+P0215,Electric Grills with Non-Stick Cooking Surface and Dishwasher-Safe Parts
+P0216,Smokers with Digital Temperature Control and Wood Chip Hopper
+P0217,Patio Heaters with Adjustable Height and Safety Features
+P0218,Sewing Machines with Computerized Stitching and Automatic Needle Threader
+P0219,Vacuum Sealers with Roll Cutter and Marinate Mode
+P0220,Dehumidifiers with Built-in Pump and Auto-Shut Off
+P0221,Humidifiers with Ultrasonic Technology and Aroma Diffuser
+P0222,Portable Power Banks with High Capacity and Multiple USB Ports
+P0223,Phone Chargers with Wireless Charging Capabilities
+P0224,Portable Speakers with Waterproof Design and Bluetooth Connectivity
+P0225,Projectors with Portable Screen and High Lumen Output
+P0226,Security Cameras with Night Vision and Cloud Storage
+P0227,Baby Monitors with Video and Temperature Monitoring
+P0228,Portable Projectors with Built-in Battery and Wi-Fi Streaming
+P0229,Portable Ice Makers with Fast Freeze Function
+P0230,Portable Blenders with Single-Serve Cups and Smoothie Settings
+P0231,CyberVacuummatic
+P0232,NeoDryerwave
+P0233,TechVacuumhub
+P0234,SmartFridgehub
+P0235,MaxDryerlux
+P0237,PowerVacuumgen
+P0238,SolarHeaterhub
+P0239,AutoBlenderlux
+P0240,SolarWashermatic
+P0241,MaxBlenderflow
+P0242,NeoTVflow
+P0243,CyberTVmatic
+P0245,SmartDryerlux
+P0246,MaxWashermatic
+P0247,PowerMixercast
+P0249,EcoWasherwave
+P0250,AutoGrillwave
+P0251,PowerFridgedrive
+P0252,AutoVacuumhub
+P0253,NeoFridgecast
+P0254,AutoMixergen
+P0255,NanoBlenderpulse
+P0256,SmartWashercast
+P0257,MaxGrilldrive
+P0258,NanoHeaterlux
+P0259,CyberOvencast
+P0260,TechDryerdrive
+P0261,SolarGrillpulse
+P0263,NanoMixertron
+P0264,NanoTVflow
+P0265,SolarBlendermatic
+P0266,TechHeaterlux
+P0267,CyberMixerpulse
+P0268,PowerMixerdrive
+P0269,AutoVacuumpulse
+P0270,SmartHeatercast
+P0271,PowerVacuumflow
+P0272,AutoVacuumdrive
+P0274,EcoWasherflow
+P0275,SmartGrillpulse
+P0276,AutoOvengen
+P0277,NanoWashermatic
+P0278,SolarMixerpulse
+P0279,PowerVacuumpulse
+P0280,AutoHeatercast
+P0281,AutoGrillcast
+P0282,PowerDryerflow
+P0283,NanoHeaterflow
+P0284,NeoGrilldrive
+P0285,NeoVacuummatic
+P0286,EcoVacuumlux
+P0287,NeoTVpulse
+P0289,PowerFridgelux
+P0290,SolarVacuumtron
+P0291,AutoVacuummatic
+P0292,SolarOvendrive
+P0293,NeoDryergen
+P0294,SolarVacuumhub
+P0295,NeoOvenmatic
+P0296,CyberMixermatic
+P0297,NanoHeaterpulse
+P0298,PowerWasherflow
+P0299,AutoOvenlux
+P0300,NeoFridgehub
+P0301,PowerDryercast
+P0302,EcoVacuumgen
+P0303,MaxMixerdrive
+P0304,SmartHeaterdrive
+P0305,MaxVacuumwave
+P0309,AutoDryerlux
+P0310,NeoTVlux
+P0311,EcoTVdrive
+P0312,TechHeaterflow
+P0313,AutoTVmatic
+P0314,TechTVmatic
+P0316,MaxWasherflow
+P0317,SmartBlenderwave
+P0318,NeoWasherwave
+P0319,NeoHeatertron
+P0321,EcoOvenmatic
+P0322,NeoDryertron
+P0323,PowerHeaterdrive
+P0324,AutoGrillpulse
+P0325,NeoHeatergen
+P0326,CyberTVlux
+P0327,CyberDryermatic
+P0328,SmartOvendrive
+P0329,SmartBlenderhub
+P0330,SolarDryerwave
+P0331,MaxFridgeflow
+P0332,EcoBlendercast
+P0333,EcoVacuumcast
+P0334,MaxHeatergen
+P0335,SmartWashermatic
+P0336,NanoHeatermatic
+P0337,NanoDryertron
+P0339,NeoWasherdrive
+P0340,PowerBlendermatic
+P0341,NeoDryerpulse
+P0342,SolarVacuumflow
+P0343,NanoWasherwave
+P0344,TechGrillwave
+P0345,SmartWasherflow
+P0346,CyberBlendertron
+P0347,AutoMixercast
+P0348,SmartBlenderflow
+P0350,AutoTVcast
+P0351,PowerVacuumwave
+P0352,TechWashercast
+P0353,EcoGrilldrive
+P0354,SmartFridgetron
+P0355,AutoMixerhub
+P0356,MaxGrillhub
+P0357,CyberMixergen
+P0358,SolarGrillgen
+P0360,AutoOvenhub
+P0361,SmartDryergen
+P0362,SolarDryerflow
+P0363,CyberBlenderpulse
+P0364,TechTVlux
+P0365,MaxHeatercast
+P0366,MaxTVtron
+P0367,TechTVwave
+P0368,NanoDryerpulse
+P0369,EcoHeaterflow
+P0370,MaxFridgecast
+P0371,AutoHeaterflow
+P0372,NanoHeaterdrive
+P0373,NeoVacuumtron
+P0374,AutoOvenpulse
+P0375,TechGrillhub
+P0376,CyberVacuumlux
+P0377,NanoWasherflow
+P0379,SolarDryerpulse
+P0380,EcoBlendertron
+P0381,NeoWashergen
+P0382,EcoGrillpulse
+P0383,CyberGrilllux
+P0384,CyberFridgepulse
+P0385,MaxMixerhub
+P0386,MaxDryerpulse
+P0387,MaxHeaterpulse
+P0388,EcoWasherhub
+P0389,PowerMixerhub
+P0390,CyberTVpulse
+P0391,NanoWasherlux
+P0392,SmartWasherhub
+P0393,SmartOvenflow
+P0394,PowerMixergen
+P0395,NanoTVgen
+P0396,AutoVacuumtron
+P0397,EcoVacuumflow
+P0398,TechMixercast
+P0399,MaxOventron
+P0400,AutoTVdrive
+P0401,CyberBlendergen
+P0402,NeoHeaterdrive
+P0403,NanoVacuumhub
+P0405,AutoTVtron
+P0406,MaxBlendercast
+P0407,MaxFridgedrive
+P0408,EcoVacuumwave
+P0409,EcoDryerpulse
+P0410,SolarVacuumcast
+P0411,SmartGrilltron
+P0412,NanoGrilldrive
+P0413,SolarBlenderlux
+P0414,TechOvencast
+P0415,MaxFridgehub
+P0416,CyberOvenlux
+P0417,CyberMixerhub
+P0418,TechTVpulse
+P0419,NanoDryercast
+P0420,NeoGrillpulse
+P0421,EcoTVpulse
+P0422,NeoDryerflow
+P0423,NanoVacuumpulse
+P0424,TechWasherhub
+P0425,MaxGrillgen
+P0426,SolarVacuumgen
+P0427,TechFridgepulse
+P0428,SmartDryermatic
+P0429,SmartFridgecast
+P0430,CyberFridgeflow
+P0431,SmartFridgepulse
+P0432,AutoHeatergen
+P0433,SolarTVmatic
+P0435,NanoMixerdrive
+P0436,TechFridgematic
+P0437,NanoBlendertron
+P0438,NanoGrillflow
+P0439,EcoHeaterwave
+P0440,TechTVcast
+P0441,NanoOvencast
+P0442,SolarMixerlux
+P0443,NanoWasherdrive
+P0444,AutoOvendrive
+P0445,SmartOvengen
+P0446,MaxMixercast
+P0447,EcoTVwave
+P0448,NanoOvendrive
+P0450,SmartHeaterpulse
+P0451,NeoMixerhub
+P0452,SmartFridgeflow
+P0453,TechOvengen
+P0454,SmartMixerwave
+P0455,CyberWashermatic
+P0456,MaxOvenpulse
+P0457,NanoMixerhub
+P0458,AutoBlenderhub
+P0459,SolarFridgematic
+P0460,TechBlenderwave
+P0461,TechWasherpulse
+P0462,NeoOventron
+P0463,TechOvenmatic
+P0464,SmartGrilllux
+P0465,EcoOvenwave
+P0466,MaxGrillcast
+P0467,AutoFridgewave
+P0468,CyberVacuumgen
+P0469,PowerDryerwave
+P0470,PowerGrillhub
+P0471,CyberGrilldrive
+P0473,NanoDryermatic
+P0474,TechMixerdrive
+P0475,SmartOvenhub
+P0476,SolarBlendertron
+P0477,TechVacuumpulse
+P0478,EcoWashermatic
+P0480,MaxTVlux
+P0481,CyberBlenderflow
+P0482,NanoDryerhub
+P0483,TechMixergen
+P0484,SmartVacuumwave
+P0485,NanoMixerwave
+P0486,MaxVacuumcast
+P0487,MaxMixertron
+P0489,AutoVacuumgen
+P0490,CyberTVdrive
+P0491,CyberWasherhub
+P0492,CyberVacuumdrive
+P0493,PowerWashermatic
+P0494,MaxFridgelux
+P0495,AutoWashercast
+P0496,PowerWasherlux
+P0497,CyberMixerdrive
+P0498,SmartGrillgen
+P0499,SmartFridgedrive
+P0500,MaxDryerwave
+P0501,NanoVacuumwave
+P0502,PowerBlendercast
+P0503,PowerGrillpulse
+P0504,EcoOvengen
+P0505,EcoMixertron
+P0506,NanoMixerpulse
+P0507,NeoGrillflow
+P0508,EcoGrillcast
+P0509,CyberVacuumtron
+P0510,MaxFridgewave
+P0511,MaxDryerhub
+P0512,NeoMixercast
+P0513,CyberWashercast
+P0514,MaxHeaterflow
+P0515,SolarHeatercast
+P0516,SolarHeaterlux
+P0517,EcoMixerlux
+P0518,AutoTVflow
+P0519,SmartMixerhub
+P0520,TechBlendercast
+P0521,SmartWasherdrive
+P0522,EcoMixerdrive
+P0523,MaxVacuumhub
+P0524,NeoDryerhub
+P0525,PowerDryerdrive
+P0526,SmartHeaterflow
+P0527,MaxDryerdrive
+P0528,TechBlenderdrive
+P0529,NanoOvenflow
+P0531,EcoDryergen
+P0532,CyberFridgematic
+P0533,EcoTVlux
+P0534,AutoGrillflow
+P0535,MaxFridgematic
+P0536,PowerFridgecast
+P0537,PowerBlenderflow
+P0538,EcoHeaterlux
+P0539,PowerHeatermatic
+P0540,NanoMixerlux
+P0541,EcoOvencast
+P0543,NanoTVmatic
+P0544,MaxWasherpulse
+P0545,MaxBlenderwave
+P0546,SolarHeaterwave
+P0547,PowerWasherpulse
+P0548,SmartVacuumhub
+P0549,TechDryermatic
+P0550,NeoGrillhub
+P0551,SolarGrilltron
+P0552,NanoTVwave
+P0553,CyberWashertron
+P0554,MaxMixergen
+P0555,PowerTVtron
+P0556,SolarOventron
+P0557,TechWashergen
+P0559,MaxBlenderpulse
+P0560,NanoDryerdrive
+P0561,TechHeaterhub
+P0563,CyberFridgedrive
+P0564,NeoTVtron
+P0565,MaxTVhub
+P0566,NanoOvengen
+P0567,TechBlenderhub
+P0568,SolarWasherhub
+P0569,SmartFridgewave
+P0570,PowerGrilldrive
+P0571,CyberFridgegen
+P0572,TechTVhub
+P0574,SolarMixergen
+P0575,TechGrillpulse
+P0576,PowerMixerflow
+P0577,PowerTVpulse
+P0578,NanoHeatergen
+P0579,TechBlenderpulse
+P0580,NeoDryercast
+P0581,AutoHeatermatic
+P0582,NeoTVhub
+P0583,PowerMixerwave
+P0584,CyberMixerwave
+P0585,SolarTVdrive
+P0587,SolarFridgecast
+P0588,TechGrillgen
+P0589,NeoMixerdrive
+P0590,CyberHeaterhub
+P0591,MaxGrilltron
+P0592,AutoDryerflow
+P0593,MaxOvendrive
+P0594,SmartMixercast
+P0595,PowerHeatertron
+P0596,PowerDryertron
+P0597,TechWasherflow
+P0598,AutoDryergen
+P0599,CyberTVhub
+P0600,TechFridgewave
+P0601,NanoGrillpulse
+P0602,SolarHeaterflow
+P0603,EcoVacuumtron
+P0604,NeoMixerflow
+P0605,NanoBlenderwave
+P0606,TechVacuumwave
+P0607,SmartHeaterlux
+P0608,EcoDryertron
+P0609,PowerHeaterhub
+P0610,PowerBlenderpulse
+P0611,NeoVacuumwave
+P0613,NanoMixerflow
+P0614,MaxWasherwave
+P0615,NeoBlendertron
+P0616,MaxWashercast
+P0617,SolarTVlux
+P0618,MaxFridgegen
+P0619,NeoHeatermatic
+P0620,AutoHeatertron
+P0621,TechFridgehub
+P0622,AutoMixerflow
+P0623,PowerWashercast
+P0625,PowerGrilllux
+P0626,EcoDryercast
+P0627,NeoOvenlux
+P0628,TechFridgelux
+P0629,SolarDryergen
+P0630,CyberTVgen
+P0631,NeoBlenderdrive
+P0632,TechHeatercast
+P0633,EcoMixergen
+P0634,MaxBlendertron
+P0635,EcoTVgen
+P0636,AutoVacuumflow
+P0637,AutoFridgetron
+P0638,EcoHeaterdrive
+P0639,EcoFridgewave
+P0640,AutoBlenderwave
+P0641,CyberFridgewave
+P0642,TechGrillcast
+P0643,AutoBlendercast
+P0644,SmartHeaterhub
+P0645,PowerFridgegen
+P0646,MaxOvencast
+P0647,SolarMixerdrive
+P0649,EcoWasherlux
+P0651,AutoWasherflow
+P0652,TechDryerlux
+P0654,PowerWashergen
+P0655,CyberDryerwave
+P0656,SmartMixergen
+P0657,NanoBlendergen
+P0658,PowerOvengen
+P0659,CyberMixerflow
+P0660,EcoTVmatic
+P0661,SolarBlenderwave
+P0662,EcoMixerhub
+P0663,SolarOvenwave
+P0664,SmartVacuumcast
+P0665,AutoDryerdrive
+P0666,SolarTVhub
+P0667,SmartTVwave
+P0668,EcoHeaterhub
+P0669,EcoMixermatic
+P0670,PowerOvencast
+P0671,AutoHeaterdrive
+P0672,TechWashermatic
+P0673,PowerMixerlux
+P0674,TechMixerwave
+P0675,CyberVacuumhub
+P0676,AutoTVlux
+P0678,AutoWasherlux
+P0679,SmartMixerflow
+P0680,SolarGrillcast
+P0681,TechVacuumflow
+P0682,SolarMixermatic
+P0683,SolarTVpulse
+P0684,AutoVacuumcast
+P0685,MaxTVwave
+P0687,SolarBlenderpulse
+P0688,MaxVacuumlux
+P0689,CyberTVwave
+P0690,NeoHeaterflow
+P0691,SolarDryerhub
+P0692,EcoFridgetron
+P0693,EcoFridgedrive
+P0694,SmartTVlux
+P0695,SmartTVcast
+P0696,SmartVacuumlux
+P0697,AutoMixerlux
+P0698,NeoFridgeflow
+P0699,SolarOvenlux
+P0700,AutoGrillhub
+P0701,NanoBlenderdrive
+P0702,PowerMixertron
+P0703,PowerDryerlux
+P0704,TechTVgen
+P0705,SolarBlenderhub
+P0706,SolarWasherlux
+P0707,NeoHeaterhub
+P0708,CyberOvenwave
+P0709,MaxVacuumdrive
+P0710,TechWasherlux
+P0711,EcoVacuumdrive
+P0712,NanoGrillcast
+P0713,SmartDryerflow
+P0714,NeoBlendermatic
+P0715,EcoVacuumpulse
+P0716,TechMixertron
+P0718,NanoFridgeflow
+P0719,CyberGrillhub
+P0720,CyberWasherwave
+P0721,PowerVacuumtron
+P0722,EcoFridgepulse
+P0724,NanoDryerflow
+P0725,EcoFridgematic
+P0726,MaxBlenderdrive
+P0727,TechOvenlux
+P0728,CyberHeatertron
+P0729,NeoFridgewave
+P0730,NeoTVwave
+P0731,EcoBlenderhub
+P0732,SmartVacuumflow
+P0733,TechDryerhub
+P0735,SolarGrilllux
+P0736,SmartGrillcast
+P0737,EcoHeatertron
+P0738,NeoGrillgen
+P0739,MaxBlenderhub
+P0740,MaxDryerflow
+P0741,SmartDryercast
+P0742,NeoFridgedrive
+P0744,PowerFridgehub
+P0745,SolarBlenderdrive
+P0746,CyberBlenderhub
+P0747,TechMixerflow
+P0748,French Door Refrigerator
