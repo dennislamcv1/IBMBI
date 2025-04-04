@@ -1,5 +1,5 @@
 # IBMBI
-## Business Intelligence (BI) Analyst Professional Certificate
+## IBM Business Intelligence (BI) Analyst Professional Certificate (10 course series)
 
 Prepare for a career in the field of Business Intelligence (BI), and learn in-demand skills like SQL, Excel, and data management to get job-ready in less than 4 months, with no prior experience needed to get started.
 
